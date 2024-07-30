@@ -27,12 +27,12 @@ export default function Home() {
       Enjoy Smooth Consultation
     </h1>
     <h2 className="text-xl md:text-2xl text-center mb-4">
-      with your Doctor {'doctor.name'}
+      with your Doctor from Anywhere
     </h2>
     
     {/* Description */}
     <p className="text-base md:text-lg text-center text-gray-300 mb-8">
-      Connect seamlessly with your healthcare provider using Ahhh App.
+      Connect seamlessly with your healthcare provider using telemedicine.
     </p>
 
     {/* Form Inputs and Button */}
